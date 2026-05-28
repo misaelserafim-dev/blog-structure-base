@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Aprendendo React moderno",
+    "slug": "aprendendo-react-moderno",
+    "excerpt": "Entendendo arquitetura frontend.",
+    "content": "Conteúdo completo do post...",
+    "author": {
+      "id": "1",
+      "name": "Misael",
+      "avatarUrl": "/avatars/misael.png"
+    },
+    "tags": ["react", "frontend"],
+    "publishedAt": "2026-05-26T20:00:00Z",
+    "createdAt": "2026-05-26T18:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Feature Based Architecture",
+    "slug": "feature-based-architecture",
+    "excerpt": "Como organizar projetos React.",
+    "content": "Conteúdo completo do segundo post...",
+    "author": {
+      "id": "2",
+      "name": "João",
+      "avatarUrl": "/avatars/joao.png"
+    },
+    "tags": ["arquitetura", "react"],
+    "publishedAt": "2026-05-25T20:00:00Z",
+    "createdAt": "2026-05-25T18:00:00Z"
+  }
+]
